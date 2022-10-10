@@ -1,0 +1,11 @@
+Escreva um programa em C que receba do usuário elementos, que serão inseridos em um vetor. Faça com que seu programa encontre o menor e o maior elementos no vetor. Por fim, mostre esses valores na tela.
+
+Abaixo um exemplo de execução do programa:
+
+Qual o tamanho do vetor? 4
+
+Entre os elementos do vetor: 10 5 71 3
+
+Maior valor: 71
+
+Menor valor: 3

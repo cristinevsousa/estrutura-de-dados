@@ -1,0 +1,9 @@
+1. Criar duas variáveis do mesmo tipo e atribuir um valor inicial.
+
+2. Criar uma função que receba as referências a estas variáveis e inverta (o conteúdo da primeira vai para a segunda e vice e versa).
+
+3. Imprime na tela o resultado da inversão.
+
+4. Exponha o código fonte utilizado e explique, através de comentários no código os passos que você está desenvolvendo.
+
+5. Explique o mecanismo de funcionamento utilizado para a execução da tarefa acima.

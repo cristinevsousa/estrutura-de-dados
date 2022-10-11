@@ -1,0 +1,11 @@
+Tendo como base o exercício 02 da agenda 01, escreva um programa que imprima a soma dos números 1 até o menor número do vetor. 
+
+Você irá criar uma função dentro do programa original que receberá o menor número encontrado no vetor e, recursivamente, fará a soma dos números de 1 a N. 
+
+Exemplo de dados inseridos: 
+
+Quantos números terá o vetor? 5 
+
+Exemplo de entrada: 5  3  8  9  4 
+
+A soma dos números de 1 a 3 é 6.

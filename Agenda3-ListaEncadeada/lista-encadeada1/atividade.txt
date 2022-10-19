@@ -1,0 +1,17 @@
+Escreva um algoritmo que crie e mostre uma lista encadeada simples.  
+
+Dados para testes:
+
+Quantidade de nós: 3
+
+Nó 1: número 5
+Nó 2: número 6
+Nó 3: número 7
+
+A saída esperada é a seguinte:
+ 
+Dados inseridos na lista:                      
+
+Dados = 5
+Dados = 6  
+Dados = 7

@@ -1,0 +1,11 @@
+Incremente o exercício anterior, criando uma função que lê um número e percorre a lista, informando a posição em que o item lido se encontra na lista. Caso o número lido não se encontre na lista, deve imprimir "Não encontrado!!". 
+
+Passos:  
+
+Criar uma lista, lendo os elementos da mesma; 
+
+Ler o número a encontrar na lista; 
+
+Percorrer a lista, para verificar se o número se encontra na lista; 
+
+Informar a posição onde se encontra, ou caso não existir, escrever na tela "Não encontrado!!"

@@ -1,0 +1,4 @@
+Escreva um programa em C para uma aplicação prática de pesquisa binária, 
+que peça ao usuário o número de elementos no vetor, que insira valores aleatórios 
+em ordem, e o valor que queira procurar. Por fim, apresente o valor encontrado ou 
+uma mensagem de que não foi encontrado.  

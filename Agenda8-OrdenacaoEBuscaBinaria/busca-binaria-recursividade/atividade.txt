@@ -1,0 +1,2 @@
+Implemente usando a linguagem C, o algoritmo de busca binária, 
+usando a técnica de recursividade

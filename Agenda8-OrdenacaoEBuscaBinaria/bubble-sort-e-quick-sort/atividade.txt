@@ -1,0 +1,7 @@
+Vimos, nas últimas agendas, diversos algoritmos de ordenação. Nesta atividade você deverá implementar dois deles. Utilize como entrada o vetor com os valores:
+
+[ 45, 7, 10, 4,  13, 17, 20, 16, 41,  21, 38, 43, 31, 2 ]
+
+Bubble Sort
+
+Quick Sort
